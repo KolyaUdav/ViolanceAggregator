@@ -1,0 +1,6 @@
+FIRST_INDEX = 3
+
+SEX = 'A'
+AGE = 'B'
+FAMILY = 'C'
+OTHERS = 'D'
