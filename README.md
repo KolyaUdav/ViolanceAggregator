@@ -1,1 +1,1 @@
-"# ViolanceAggregator" 
+Parsing excel tables (anketi folder) by means Parser (parser folder, parse_xl.py - main) to json files (json folder). Then calculating "percent violance", "percent violance by age" etc. and draw pies by means Analyze (analyze folder, calculating_df.py - main). Main.py does console logic (input/output) in the same folder. 
